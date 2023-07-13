@@ -46,7 +46,6 @@
 							<a href="#" class="image">
 								<img src="images/mechamayhem1.JPG" alt="" data-position="center center">
 								<img src="images/pic01.jpg" alt="" data-position="center center" />
-								<img src="images/mechamayhem1.JPG" alt="">
 							</a>
 							<div class="content">
 								<div class="inner">
@@ -56,7 +55,7 @@
 											I spend my time working through a never-ending list of projects that have either some kind of purpose or no useful purpose at all. 
 											Within computer science, I'm interested in <strong>cybersecurity</strong> and <strong>app development</strong>. 
 											I'm also one of two <strong>software education directors</strong> of a globally competitive <strong>robotics team</strong> at my school. 
-											<br>Apart from computer science, I'm also interested in <strong>origami</strong>, <strong>fantasy books</strong>, and <strong>fountain pens</strong>.
+											<br>Apart from computer science, I'm also interested in <strong>origami</strong>, <strong>sci-fi</strong>, and <strong>fountain pens</strong>.
 										</p>
 								</div>
 							</div>
@@ -116,7 +115,7 @@
 								<section>
 									<span class="icon solid major fa-solid fa-message"></span>
 									<h3>Messaging App</h3>
-									<p>In June of 2023, I started working on a rudimentary messaging app using only JavaFX and Java socket programming.</p>
+									<p>In June of 2023, I started working on a <a href="https://github.com/hiatus770/BeaconBabble">messaging app</a> with a friend using only JavaFX and Java socket programming.</p>
 								</section>
 								<section>
 									<span class="icon solid major fa-solid fa-wrench"></span>
@@ -131,34 +130,38 @@
 					<section id="three" class="wrapper style1 fade-up">
 						<div class="inner">
 							<h2>Get in touch</h2>
-							<p>If you have any questions or wish to speak to me for any other reason, contact me through email or through my socials!</p>
+							<p>
+								If you have any questions or wish to speak to me for any other reason, feel free to contact me through email or through my socials!
+								<br>(Currently, the email form doesn't work. Please use the email linked to the side.)
+							</p>
 							<div class="split style1">
 								<section>
-									<form method="post" action="#">
+									<form method="post" action="send_email.php">
 										<div class="fields">
 											<div class="field half">
-												<label for="name">Name</label>
-												<input type="text" name="name" id="name" />
+												<label for="name">Subject</label>
+												<input type="text" name="name" id="name" placeholder="Your subject"/>
 											</div>
 											<div class="field half">
 												<label for="email">Email</label>
-												<input type="text" name="email" id="email" />
+												<input type="email" name="email" id="email" placeholder="Your email"/>
 											</div>
 											<div class="field">
 												<label for="message">Message</label>
-												<textarea name="message" id="message" rows="5"></textarea>
+												<textarea name="message" id="message" rows="5" placeholder="Your Message"></textarea>
 											</div>
 										</div>
-										<a href="mailto:ohuang4131@gmail.com" class="button submit">Send Message</a>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="button submit"/></li>
+											<!--<a href="mailto:ohuang4131@gmail.com" class="button submit">Send Message</a>-->
+										</ul>
 									</form>
 								</section>
 								<section>
 									<ul class="contact">
 										<li>
-											<h3>Address</h3>
-											<span>12345 Somewhere Road #654<br />
-											Nashville, TN 00000-0000<br />
-											USA</span>
+											<h3>Location</h3>
+											<span>Toronto, Canada</span>
 										</li>
 										<li>
 											<h3>Email</h3>
