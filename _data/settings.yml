@@ -1,0 +1,29 @@
+menu:
+#- {name: 'people', url: '/people'}
+- {name: 'projects', url: '/projects'}
+- {name: 'courses', url: '/courses'}
+- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+people:
+- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+courses:
+- {name: 'Analysis I (MAT157)', url: 'https://artsci.calendar.utoronto.ca/course/mat157y1'}
+- {name: 'Linear Algebra I (MAT223)', url: 'https://artsci.calendar.utoronto.ca/course/mat223h1'}
+- {name: 'Linear Algebra II (MAT224)', url: 'https://artsci.calendar.utoronto.ca/course/mat224h1'}
+- {name: 'Foundations of Physics I (PHY151)', url: 'https://artsci.calendar.utoronto.ca/course/phy151h1'}
+- {name: 'Foundations of Physics II (PHY152)', url: 'https://artsci.calendar.utoronto.ca/course/phy152h1'}
+- {name: 'Introduction to Computer Science (CSC148)', url: 'https://artsci.calendar.utoronto.ca/course/csc148h1'}
+- {name: 'Mathematical Expression and Reasoning for Computer Science (CSC165)', url: 'https://artsci.calendar.utoronto.ca/course/csc165h1'}
+
+social:
+- {icon: 'github', link: 'https://github.com/gooosexe'}
+# - {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://instagram.com/gooosexe'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/oliver-huang-931947232/'}
+
+contacts:
+- {name: 'Oliver Huang', title: 'Undergraduate Student', department: 'Mathematical and Physical Sciences', institution: 'University of Toronto', institution_address: "27 King's College Circle, M5S1A1", phone: '(647) 615-8590', email: 'oli.huang@mail.utoronto.ca', image: 'assets/img/contact.jpeg'}

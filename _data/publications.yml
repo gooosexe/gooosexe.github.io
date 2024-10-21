@@ -1,0 +1,9 @@
+featured:
+- {name: "relasim - experience the effects of Einstein's theories of special and general relativity.", url: 'https://github.com/gooosexe/relasim'}
+- {name: 'nanobrowser - a super light and mostly experimental browser built with Java Swing.', url: 'https://github.com/gooosexe/nanobrowser'}
+- {name: 'spot2mp3 - a nifty python command line tool to convert your favourite playlists into mp3 files.', url: 'https://github.com/gooosexe/spot2mp3'}
+
+index:
+- {name: 'relasim', url: 'https://github.com/gooosexe/relasim'}
+- {name: 'nanobrowser', url: 'https://github.com/gooosexe/nanobrowser'}
+- {name: 'spot2mp3', url: 'https://github.com/gooosexe/spot2mp3'}
