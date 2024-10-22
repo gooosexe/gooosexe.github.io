@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "home"
 ---
 
 I'm a first-year student in the Mathematical and Physical Sciences program, pursuing a double major in Physics and Computer Science. 
