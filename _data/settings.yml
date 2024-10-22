@@ -11,13 +11,15 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
-- {name: 'Analysis I (MAT157)', url: 'https://artsci.calendar.utoronto.ca/course/mat157y1'}
-- {name: 'Linear Algebra I (MAT223)', url: 'https://artsci.calendar.utoronto.ca/course/mat223h1'}
-- {name: 'Linear Algebra II (MAT224)', url: 'https://artsci.calendar.utoronto.ca/course/mat224h1'}
-- {name: 'Foundations of Physics I (PHY151)', url: 'https://artsci.calendar.utoronto.ca/course/phy151h1'}
-- {name: 'Foundations of Physics II (PHY152)', url: 'https://artsci.calendar.utoronto.ca/course/phy152h1'}
-- {name: 'Introduction to Computer Science (CSC148)', url: 'https://artsci.calendar.utoronto.ca/course/csc148h1'}
-- {name: 'Mathematical Expression and Reasoning for Computer Science (CSC165)', url: 'https://artsci.calendar.utoronto.ca/course/csc165h1'}
+- {name: 'MAT157 - Analysis I', url: 'https://artsci.calendar.utoronto.ca/course/mat157y1'}
+- {name: 'MAT223 - Linear Algebra I', url: 'https://artsci.calendar.utoronto.ca/course/mat223h1'}
+- {name: 'MAT224 - Linear Algebra II', url: 'https://artsci.calendar.utoronto.ca/course/mat224h1'}
+- {name: 'PHY151 - Foundations of Physics I', url: 'https://artsci.calendar.utoronto.ca/course/phy151h1'}
+- {name: 'PHY152 - Foundations of Physics II', url: 'https://artsci.calendar.utoronto.ca/course/phy152h1'}
+- {name: 'CSC148 - Introduction to Computer Science', url: 'https://artsci.calendar.utoronto.ca/course/csc148h1'}
+- {name: 'CSC165 - Mathematical Expression and Reasoning for Computer Science)', url: 'https://artsci.calendar.utoronto.ca/course/csc165h1'}
+- {name: 'POL107 - What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly', url: 'https://artsci.calendar.utoronto.ca/course/pol107h1'}
+- {name: 'CLA204 - Introduction to Classical Mythology', url: 'https://artsci.calendar.utoronto.ca/course/cla204h1'}
 
 social:
 - {icon: 'github', link: 'https://github.com/gooosexe'}
