@@ -6,10 +6,13 @@
   - 'Coordinated with mentors and other teams to ensure team success'
 
 - title: 'STL Robotics Software Education Executive'
-  location: 'St. Theresa of Lisieux CHS (2023 – 2024)'
+  location: 'St. Theresa of Lisieux CHS (2023 - 2024)'
   description:
   - 'Taught students the basics of robotics programming using the C++ PROS API'
   - 'Organized and led workshops on programming autonomous routines and driver control'
 
 - title: 'Power Unit Youth Organization Web Developer'
-
+  location: 'Power Unit Youth Organization (2021 - 2022)'
+  description:
+  - "Managed a codebase written in JS/HTML/CSS for the website of Canada's largest Asian night market, Night It Up!"
+  - 'Deployed and hosted the website on Web Hosting Canada'
