@@ -5,7 +5,7 @@ featured:
 - {name: 'spot2mp3 - a nifty python command line tool to convert your favourite playlists into mp3 files.', url: 'https://github.com/gooosexe/spot2mp3'}
 
 index:
-- {name: 'nbodysim', url: 'https://github.com/gooosexe/nbodysim'}
-- {name: 'relasim', url: 'https://github.com/gooosexe/relasim'}
-- {name: 'nanobrowser', url: 'https://github.com/gooosexe/nanobrowser'}
-- {name: 'spot2mp3', url: 'https://github.com/gooosexe/spot2mp3'}
+- {name: 'nbodysim', url: 'https://github.com/gooosexe/nbodysim', description: 'A simple n-body simulation written in Python using matplotlib. Contains both direct method and Barnes-Hut method of calculating forces. Working on implementing perfectly inelastic collisions and merging bodies.'}
+- {name: 'relasim', url: 'https://github.com/gooosexe/relasim', description: '(UNFINISHED) Experience the effects of Einstein\'s theories of special and general relativity. This is a simple simulation that shows the effects of time dilation and length contraction.'}
+- {name: 'nanobrowser', url: 'https://github.com/gooosexe/nanobrowser', description: 'A super light and mostly experimental browser built with Java Swing. It is a simple browser that can render HTML and CSS, but does not support JavaScript.'}
+- {name: 'spot2mp3', url: 'https://github.com/gooosexe/spot2mp3', description: 'Scrapes Spotify playlists and converts all songs to mp3 files by matching the song on youtube and downloading the audio. Uses spotipy to scrape from spotipy, pytube to download from youtube and ffmpeg to convert to mp3 and write metadata.'}
