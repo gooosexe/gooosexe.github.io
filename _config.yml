@@ -1,4 +1,4 @@
-url: "https://gooosexe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
-title: "oliver's portfolio [WIP]" # the name of your site, e.g. ACME Corp.
+url: "https://gooosexe.github.io"
+baseurl: "/"
+title: "oliver's portfolio"
 description: "to be loved is to be changed"

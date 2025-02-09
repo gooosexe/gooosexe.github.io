@@ -27,4 +27,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/oliver-huang-931947232/'}
 
 contacts:
-- {name: 'Oliver Huang', title: 'Undergraduate Student', department: 'Mathematical and Physical Sciences', institution: 'University of Toronto', institution_address: "27 King's College Circle, M5S1A1", phone: '(647) 615-8590', email: 'oli.huang@mail.utoronto.ca', image: 'assets/img/contact.jpeg'}
+- {name: 'Oliver Huang', title: 'Undergraduate Student', department: 'Mathematical and Physical Sciences', institution: 'University of Toronto, Woodsworth College', institution_address: "32 Bloor Street West, M5S1S5", phone: '(647) 615-8590', school-email: 'oli.huang@mail.utoronto.ca', work-email: 'ohuang4131@gmail.com', image: 'assets/img/contact.jpeg'}
