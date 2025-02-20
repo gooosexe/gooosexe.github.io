@@ -1,12 +1,26 @@
 /*@import "main.css";*/
 
 body {
-	background: #ffffff;
+  background: #ffffff;
+  color: #000000 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+body a {
+  color: #000000 !important;
+}
+
+h2 {
 	color: #000000 !important;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  }
-  
-  body a {
+	font-size: 16pt;
+	font-weight: bolder;
+	padding: 0;
+}
+
+h3 {
 	color: #000000 !important;
-  }
-  
+	font-weight: bolder;
+	padding: 0;
+	margin: 0;
+}

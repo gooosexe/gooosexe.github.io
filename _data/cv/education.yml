@@ -1,5 +1,7 @@
-- title: 'H.B.Sc. Physical and Mathematical Sciences'
-  description: 'The University of Toronto (2024-current)'
+- school: 'University of Toronto'
+  degree: 'H.B.Sc. Physical and Mathematical Sciences'
+  gpa: '3.75 CGPA'
 
-- title: 'Ontario Secondary School Diploma with Honours, Advanced Placement'
-  description: "St. Theresa of Lisieux Catholic High School (2020-2024)"
+- school: "St. Theresa of Lisieux Catholic High School"
+  degree: 'Ontario Secondary School Diploma with Honours, Advanced Placement'
+  gpa: '94.5% average'

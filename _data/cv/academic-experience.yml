@@ -1,18 +1,29 @@
-- title: 'STL Robotics Team Captain'
-  location: 'St. Theresa of Lisieux CHS (2022 - 2024)'
+- title: 'Avionics Engineer'
+  organization: 'University of Toronto Aerospace Team (2025 - Present)'
+  location: 'Toronto, Ontario'
+  description: 
+    - Developing drivers and firmware solutions for hardware
+    - Collaborating with other engineers to effectively integrate avionics with mechanical, structural, and propulsion systems
+
+
+- title: 'Robotics Team Captain'
+  organization: 'STL Robotics (2022 - 2024)'
+  location: 'Richmond Hill, Ontario'
   description: 
   - 'Led a team of 10 students to design, build, and program a robot to compete in the VEX Robotics Competition'
   - 'Managed team cooperation, logistics, and operations'
   - 'Coordinated with mentors and other teams to ensure team success'
 
-- title: 'STL Robotics Software Education Executive'
-  location: 'St. Theresa of Lisieux CHS (2023 - 2024)'
+- title: 'Software Education Executive'
+  organization: 'STL Robotics (2022 - 2024)'
+  location: 'Richmond Hill, Ontario'
   description:
   - 'Taught students the basics of robotics programming using the C++ PROS API'
   - 'Organized and led workshops on programming autonomous routines and driver control'
 
 - title: 'Power Unit Youth Organization Web Developer'
-  location: 'Power Unit Youth Organization (2021 - 2022)'
+  organization: 'Power Unit Youth Organization (2022-2024)'
+  location: 'Markham, Ontario'
   description:
   - "Managed a codebase written in JS/HTML/CSS for the website of Canada's largest Asian night market, Night It Up!"
   - 'Deployed and hosted the website on Web Hosting Canada'
