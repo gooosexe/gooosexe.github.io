@@ -1,10 +1,11 @@
 featured:
 - {name: "nbodysim - a simple n-body simulation written in Python using matplotlib.", url: 'https://github.com/gooosexe/nbodysim'}
-- {name: 'nanobrowser - a super light and mostly experimental browser built with Java Swing.', url: 'https://github.com/gooosexe/nanobrowser'}
-- {name: 'spot2mp3 - a nifty python command line tool to convert your favourite playlists into mp3 files.', url: 'https://github.com/gooosexe/spot2mp3'}
+- {name: 'boids - a program that simulates the flocking behaviour of birds.', url: 'https://github.com/gooosexe/boids'}
+- {name: 'corkboard - a message board that deletes your message after 24 hours.', url: 'https://github.com/gooosexe/cork-front', description: ''}
 
 index:
+- {name: 'corkboard', url: 'https://github.com/gooosexe/cork-front', description: 'A message board that deletes your message after 24 hours. Nothing is permanent, here. Built with React and Spring Boot.'}
 - {name: 'nbodysim', url: 'https://github.com/gooosexe/nbodysim', description: 'A simple n-body simulation written in Python using matplotlib. Contains both direct method and Barnes-Hut method of calculating forces. Working on implementing perfectly inelastic collisions and merging bodies.'}
-- {name: 'boids', url: 'https://github.com/gooosexe/boids', description: 'A simple Java program that simulates the flocking behaviour of birds.'}
+- {name: 'boids', url: 'https://github.com/gooosexe/boids', description: 'A program written in Java with libGDX that simulates the flocking behaviour of birds.'}
 - {name: 'nanobrowser', url: 'https://github.com/gooosexe/nanobrowser', description: 'A super light and mostly experimental browser built with Java Swing. Renders HTML and CSS, but does not support JavaScript.'}
 - {name: 'spot2mp3', url: 'https://github.com/gooosexe/spot2mp3', description: 'Scrapes Spotify playlists and converts all songs to mp3 files by matching the song on youtube and downloading the audio. Uses spotipy to scrape from spotipy, yt-dlp to download from youtube, and ffmpeg to convert to mp3 and write metadata.'}

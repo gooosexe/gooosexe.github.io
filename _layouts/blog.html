@@ -10,8 +10,8 @@ layout: default
     <div class="row g-5 mb-5">
       <div class="col-md-10">
         {% for post in site.posts %}
-      	<h4><b><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</b></a> - {{ post.date | date: "%B %-d, %Y" }}</h4>
-    	{% endfor %}
+      	<h4><b><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</b></a> - {{ post.date | date: "%B %-d, %Y" }}</h4>
+    	  {% endfor %}
       </div>
     </div>
   </div>

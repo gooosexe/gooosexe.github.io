@@ -1,12 +1,13 @@
 <div class="row g-5 mb-3">
   <div>
-    <h3 class="fw-bold border-bottom pb-2 mb-2">projects</h3>
     {% if page.title == "home" %}
-      {% for item in site.data.publications.featured %}
+    <h3 class="fw-bold border-bottom pb-3 mb-3">featured projects.</h3>
+      {% for item in site.data.projects.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-      {% for item in site.data.publications.index %}
+    <h3 class="fw-bold border-bottom pb-3 mb-3">projects.</h3>
+      {% for item in site.data.projects.index %}
         <p>
           <a href="{{ item.url }}"><strong>{{item.name}}</strong></a>
           <br>
