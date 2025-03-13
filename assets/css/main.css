@@ -5,6 +5,9 @@ body {
   color: #000000 !important;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial,
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	align-self: center;
+	justify-content: center;
+	align-items: center;
 }
 
 body a {

@@ -12,20 +12,18 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
-- {name: 'MAT157 - Analysis I', url: 'https://artsci.calendar.utoronto.ca/course/mat157y1'}
-- {name: 'MAT223 - Linear Algebra I', url: 'https://artsci.calendar.utoronto.ca/course/mat223h1'}
-- {name: 'MAT224 - Linear Algebra II', url: 'https://artsci.calendar.utoronto.ca/course/mat224h1'}
-- {name: 'PHY151 - Foundations of Physics I', url: 'https://artsci.calendar.utoronto.ca/course/phy151h1'}
-- {name: 'PHY152 - Foundations of Physics II', url: 'https://artsci.calendar.utoronto.ca/course/phy152h1'}
-- {name: 'CSC148 - Introduction to Computer Science', url: 'https://artsci.calendar.utoronto.ca/course/csc148h1'}
-- {name: 'CSC165 - Mathematical Expression and Reasoning for Computer Science)', url: 'https://artsci.calendar.utoronto.ca/course/csc165h1'}
-- {name: 'POL107 - What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly', url: 'https://artsci.calendar.utoronto.ca/course/pol107h1'}
-- {name: 'CLA204 - Introduction to Classical Mythology', url: 'https://artsci.calendar.utoronto.ca/course/cla204h1'}
+- {name: 'MAT157 - analysis I', url: 'https://artsci.calendar.utoronto.ca/course/mat157y1'}
+- {name: 'MAT223 - linear algebra I', url: 'https://artsci.calendar.utoronto.ca/course/mat223h1'}
+- {name: 'MAT224 - linear algebra II', url: 'https://artsci.calendar.utoronto.ca/course/mat224h1'}
+- {name: 'PHY151 - foundations of physics I', url: 'https://artsci.calendar.utoronto.ca/course/phy151h1'}
+- {name: 'PHY152 - foundations of physics II', url: 'https://artsci.calendar.utoronto.ca/course/phy152h1'}
+- {name: 'CSC148 - introduction to computer science', url: 'https://artsci.calendar.utoronto.ca/course/csc148h1'}
+- {name: 'CSC165 - mathematical expression and reasoning for computer science', url: 'https://artsci.calendar.utoronto.ca/course/csc165h1'}
 
 social:
 - {icon: 'github', link: 'https://github.com/gooosexe'}
-- {icon: 'instagram', link: 'https://instagram.com/gooosexe'}
+- {icon: 'instagram', link: 'https://www.instagram.com/gooose_exe/'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/oliver-huang-931947232/'}
 
 contacts:
-- {name: 'Oliver Huang', title: 'Undergraduate Student', department: 'Mathematical and Physical Sciences', institution: 'University of Toronto, Woodsworth College', institution_address: "32 Bloor Street West, M5S1S5", phone: '(647) 615-8590', school-email: 'oli.huang@mail.utoronto.ca', work-email: 'ohuang4131@gmail.com', image: 'assets/img/contact.jpeg'}
+- {name: 'oliver huang', title: 'undergrad student', department: 'mathematical and physical sciences', institution: 'u of t, woodsworth college', institution_address: "321 bloor street west", phone: '(647) 615-8590', school-email: 'oli.huang@mail.utoronto.ca', work-email: 'ohuang4131@gmail.com', image: 'assets/img/contact.jpeg'}

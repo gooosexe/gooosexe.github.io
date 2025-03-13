@@ -6,9 +6,9 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">blog</h3>
+    <h3 class="fw-bold pb-3 mb-5">blog</h3>
     <div class="row g-5 mb-5">
-      <div class="col-md-10">
+      <div class="col-md-20">
         {% for post in site.posts %}
       	<h4><b><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</b></a> - {{ post.date | date: "%B %-d, %Y" }}</h4>
     	  {% endfor %}
