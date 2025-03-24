@@ -1,29 +1,47 @@
 /*@import "main.css";*/
 
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+}
+
+.dark-mode {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+}
+
 body {
-  background: #ffffff;
-  color: #000000 !important;
-  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial,
-    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	align-self: center;
-	justify-content: center;
-	align-items: center;
+  background: var(--bg-color);
+  color: var(--text-color) !important;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 body a {
-  color: #000000 !important;
+  color: var(--text-color) !important;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode .btn {
+  color: #ffffff;
 }
 
 h2 {
-	color: #000000 !important;
-	font-size: 16pt;
-	font-weight: bolder;
-	padding: 0;
+  color: var(--text-color) !important;
+  font-size: 16pt;
+  font-weight: bolder;
+  padding: 0;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 h3 {
-	color: #000000 !important;
-	font-weight: bolder;
-	padding: 0;
-	margin: 0;
+  color: var(--text-color) !important;
+  font-weight: bolder;
+  padding: 0;
+  margin: 0;
+  transition: background-color 0.3s, color 0.3s;
 }
